@@ -18,6 +18,13 @@
 
 一个丰富学科资源分享平台需要同学们一起建设，热烈欢迎您成为仓库的Contributor（[如何贡献本仓库？](Contribution.md)）
 
+### Contributors
+对所有参与本学科资源分享平台建设的同学们表达衷心的感谢❤️
+
+<a href="https://github.com/ysyisyourbrother/SYSU_Notebook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ysyisyourbrother/SYSU_Notebook" />
+</a>
+
 ## 课程目录
 
 ### 本科生课程
@@ -44,6 +51,7 @@
 | 2020 春    | [云计算概论](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E4%BA%91%E8%AE%A1%E7%AE%97%E6%A6%82%E8%AE%BA) | 大三 下  | 陈志广                       | :green_book: | :blue_book: | :page_facing_up: | :white_check_mark: |
 | 2020 春    | [智能控制](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E6%99%BA%E8%83%BD%E6%8E%A7%E5%88%B6) | 大三 下  | 谭宁                         | :green_book: |             | :page_facing_up: |                    |
 | 2020 春    | [智能算法与应用](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E6%99%BA%E8%83%BD%E7%AE%97%E6%B3%95%E4%B8%8E%E5%BA%94%E7%94%A8) | 大三 下  | 王甲海                       | :green_book: |             | :page_facing_up: |                    |
+| 2024 秋    | [计算机网络](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C2024/%E7%AC%94%E8%AE%B0) | 大三 上  | 田海博                         |             | :blue_book:  |             |                    |
 
 
 
@@ -70,6 +78,9 @@
 | 2024 秋              | [新中特](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/新中特) |  研究生  | 袁清瑞,李安勇               |              |             |                  | :white_check_mark: |
 | 2021 秋<br />2024 秋  | [可计算性与数理逻辑](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E5%8F%AF%E8%AE%A1%E7%AE%97%E6%80%A7%E4%B8%8E%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91) |  研究生  | 刘咏梅,周晓聪                       | :green_book: |             | :page_facing_up: | :white_check_mark: |
 | 2024 秋  | [自然语言处理](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86%EF%BC%88%E7%A0%94%E7%A9%B6%E7%94%9F%EF%BC%89) |  研究生  | 杨猛                    | :green_book: |             | :page_facing_up: |  |
+| 2024 秋  | [高级分布式系统](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E9%AB%98%E7%BA%A7%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F_cpf_2024) |  研究生  | 陈鹏飞                    | :green_book: |  :blue_book:  |  | :white_check_mark: |
+| 2024 秋  | [数字图像处理](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86%EF%BC%88%E7%A0%94%E7%A9%B6%E7%94%9F%EF%BC%89) |  研究生  | 赖剑煌,张青                    |  |  :blue_book:  |  | |
+| 2024 秋  | [随机过程](https://github.com/ysyisyourbrother/SYSU_Notebook/tree/master/%E8%AF%BE%E7%A8%8B%E8%B5%84%E6%96%99/%E9%9A%8F%E6%9C%BA%E8%BF%87%E7%A8%8B) |  研究生  | 马啸,龚杰                    | :green_book: |  :blue_book:  |  | |
 
 注：即使是同一门课程，授课内容和考核方式也会因为授课时间和授课老师变化而改变。因此我们按照授课时间顺序对所有课程记录进行排序，同一门课程可能存在多条不同授课时间或老师的记录。
 
@@ -110,7 +121,7 @@ git仓库地址点击👉： [:running:](https://github.com/ysyisyourbrother/My-
 
 
 
-## 注意：
+## 注意
 
 转发引用烦请注意标明出处～
 
